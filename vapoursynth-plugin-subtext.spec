@@ -2,7 +2,7 @@ Summary:	Subtext plugin for Vapoursynth
 Summary(pl.UTF-8):	Wtyczka programu Vapoursynth wyświetlająca podpisy
 Name:		vapoursynth-plugin-subtext
 Version:	3
-Release:	1
+Release:	2
 # it was vapoursynth.spec subpackage up to 54
 Epoch:		1
 License:	MIT
