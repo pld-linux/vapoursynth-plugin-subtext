@@ -1,14 +1,14 @@
 Summary:	Subtext plugin for Vapoursynth
 Summary(pl.UTF-8):	Wtyczka programu Vapoursynth wyświetlająca podpisy
 Name:		vapoursynth-plugin-subtext
-Version:	3
-Release:	2
+Version:	5
+Release:	1
 # it was vapoursynth.spec subpackage up to 54
 Epoch:		1
 License:	MIT
 Group:		Libraries
 Source0:	https://github.com/vapoursynth/subtext/archive/R%{version}/subtext-R%{version}.tar.gz
-# Source0-md5:	6483b72d357bafa228d46ab5ded2fe13
+# Source0-md5:	a9eb9ec45a428932bfe5e4fa549ff226
 URL:		https://github.com/vapoursynth/subtext
 BuildRequires:	ffmpeg-devel
 BuildRequires:	libass-devel >= 0.12.0
